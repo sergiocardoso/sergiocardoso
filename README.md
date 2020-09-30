@@ -106,12 +106,17 @@ Fullstack Developer  | Fullstack Developer | Developer
 2013 / atual  | 2010 / 2013 | 2010 / 2013
 Desenvolvimento da plataforma de transmissão e certificação, assim como webtvs para o mercado corporativo. Cloud na AWS com programação em PHP, C# .NET e Java Android.   | Desenvolvimento de sistema interno, criação de apps para monitoramento e captação de audiência em redes sociais, websites, hotsites e mídia com foco em campanha eleitoral. | Planejamento de sites, campanhas informativas e educacionais online e sistemas de gerenciamento de informações para a prefeitura de Taboão da Serra e Câmara Municipal.
 
-VÍDEO IN COM. | TVAOVIVO | PRODIGO FILMS
+VÍDEO IN COMUNICAÇÕES | TVAOVIVO | PRODIGO FILMS
 ------------- | -------------|-------------|
 Developer | Developer e Motion | Motion Graphics
 2005 / 2006  | 2004 / 2005 | 2003 / 2004
-Sites, portais e sistemas além de vinhetas 2d/3d/edição de vídeo para os programas: Liquida Mix, Vídeo Imóvel, Botânica Jarinu, Figueira Garden, Porto Seguro, programas do ramo imobiliário. | Criação do portal TVAOVIVO, programação de treinamentos em webcasting e responsável pelo broadcast ao vivo diariamente em São Paulo. |Animações 2d e 3d edições e composições de vídeo, criação e desenvolvimento de sistema de automação
-para a Fitoteca.
+Sites, portais e sistemas além de vinhetas 2d/3d/edição de vídeo para os programas: Liquida Mix, Vídeo Imóvel, Botânica Jarinu, Figueira Garden, Porto Seguro, programas do ramo imobiliário. | Criação do portal TVAOVIVO, programação de treinamentos em webcasting e responsável pelo broadcast ao vivo diariamente em São Paulo. |Animações 2d e 3d edições e composições de vídeo, criação e desenvolvimento de sistema de automação para a Fitoteca.
+
+AGÊNCIA AC&SAT | SMA - CEAM
+------------- | -------------|
+Developer Assistent | Trainee
+2002  | 2001 / 2002
+Desenvolvimento de peças publicitárias para rede Chevrolet, grupo Accor (design, layout, bonecos, impressão, folder, web | Responsável pelo Bug do Milênio (setor CEAM), desenvolvimento de sistema de automação para a biblioteca da SMA.
 
 ------------
 ### Contato
