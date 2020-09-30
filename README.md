@@ -121,17 +121,12 @@ Desenvolvimento de peças publicitárias para rede Chevrolet, grupo Accor (desig
 ------------
 
 ### Projetos Desenvolvidos
-Curriculo Digital | VerifyCar | O Taboanense
-------------- | -------------|-------------|
-www.curriculo.digital  | www.verifycar.com.br | www.otaboanense.com.br
-Plataforma para criação de currículos digitais | Serviço para avaliação de veículos seminovos | Portal de notícias
-React JS, Node, Serveless, Firebase  | React Native, JS, Firebase | AWS, PHP, Wordpress, React
+Curriculo Digital | VerifyCar | O Taboanense | TVAOVIVO | TV Taboanense
+------------- | -------------|-------------|------------- | -------------|
+www.curriculo.digital  | www.verifycar.com.br | www.otaboanense.com.br | www.tvaovivo.com.br | www.tvtaboanense.com.br
+Plataforma para criação de currículos digitais | Serviço para avaliação de veículos seminovos | Portal de notícias | Plataforma de webtv (live e ondemand) | Webtv de notícias regionais
+React JS, Node, Serveless, Firebase  | React Native, JS, Firebase | AWS, PHP, Wordpress, React |AWS, PHP, Node, Python, React | Angular, Firebase, Serveless
 
-TVAOVIVO | TV Taboanense
-------------- | -------------|
-www.tvaovivo.com.br | www.tvtaboanense.com.br
-Plataforma de webtv (live e ondemand) | Webtv de notícias regionais
-AWS, PHP, Node, Python, React | Angular, Firebase, Serveless
 
 ------------
 ### Contato
