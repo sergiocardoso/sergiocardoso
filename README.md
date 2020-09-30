@@ -54,6 +54,15 @@ Developer Assistent | Trainee
 Desenvolvimento de peças publicitárias para rede Chevrolet, grupo Accor (design, layout, bonecos, impressão, folder, web | Responsável pelo Bug do Milênio (setor CEAM), desenvolvimento de sistema de automação para a biblioteca da SMA.
 
 ------------
+### Aplicativos criados
+Healthy Chew | Math Travel | Cabe Aqui? | O Taboanense | Guia
+------------- | -------------|-------------|------------- | -------------|
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/96/0a/75/960a75ea-784e-3a0d-87e8-0992f0175573/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/90x90bb.png)| ![](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/af/50/b7/af50b707-98f9-d8f6-2806-d7557346dce0/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/90x90bb.png)|![](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/61/eb/15/61eb1522-cc49-169e-3cf4-1185db860fd8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/90x90bb.png)|![](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/b8/9c/dcb89c1a-8103-6873-fe1b-18f44458e13f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/90x90bb.png)|![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ee/8b/90/ee8b902d-af84-b268-f9ab-8cc0330b674a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/90x90bb.png)
+App para monitorar mastigações| Jogo que mistura ação com matemática|App que verifica se produtos reais cabem no seu ambiente|App oficial do portal O Taboanense|Guia comercial de produtos e Serviços
+[IOS](https://apps.apple.com/us/app/healthy-chew/id1485169722)|[IOS](https://apps.apple.com/us/app/math-travel/id1526342741)|[IOS](https://apps.apple.com/us/app/fit-here/id1519448071)|[IOS](https://apps.apple.com/us/app/o-taboanense/id1477100081)|[IOS](https://apps.apple.com/us/app/guia-o-taboanense/id1497324876)
+
+
+------------
 
 ### Projetos Desenvolvidos
 Curriculo Digital | VerifyCar | O Taboanense | TVAOVIVO | TV Taboanense
