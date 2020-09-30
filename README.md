@@ -119,6 +119,14 @@ Developer Assistent | Trainee
 Desenvolvimento de peças publicitárias para rede Chevrolet, grupo Accor (design, layout, bonecos, impressão, folder, web | Responsável pelo Bug do Milênio (setor CEAM), desenvolvimento de sistema de automação para a biblioteca da SMA.
 
 ------------
+### Projetos Desenvolvidos
+Curriculo Digital | VerifyCar | O Taboanense
+------------- | -------------|-------------|
+www.curriculo.digital  | www.verifycar.com.br | www.otaboanense.com.br
+Plataforma para criação de currículos digitais | Serviço para avaliação de veículos seminovos | Portal de notícias
+React JS, Node, Serveless, Firebase  | React Native, JS, Firebase | AWS, PHP, Wordpress, React
+
+------------
 ### Contato
 contato@sergiocardoso.org.   
 https://facebook.com/sergiocardoso.sp.  
