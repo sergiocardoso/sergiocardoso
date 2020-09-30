@@ -1,5 +1,14 @@
-### Hi there 👋
+# Sérgio Cardoso
+### Full Stack Developer
 
+#### Objetivo Profissional  
+Atuar na área de desenvolvimento fullstack (backend, frontend, mobile, cloud e 3D).
+
+#### Formação Escolar
+- Universidade Ibirapuera
+	Processamento de Dados - concluído em 2000
+- Colégio Madre Theodora
+	Curso Técnico de Processamento de Dados - concluído em 1997
 <!--
 **sergiocardoso/sergiocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
