@@ -1,21 +1,21 @@
-# Sérgio Cardoso
+# Sérgio Cardoso :nerd_face: :technologist:
 #### Full Stack Developer 
 Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 
-#### Formação Escolar
+#### :school_satchel: Formação Escolar
 - Universidade Ibirapuera
 	Processamento de Dados - concluído em 2000
 - Colégio Madre Theodora
 	Curso Técnico de Processamento de Dados - concluído em 1997
 
-#### Idiomas
+#### :earth_americas: Idiomas
 - English (ABA English)
 
-#### Dupla Cidadania
+#### :brazil: :portugal:  Dupla Cidadania
 - Portugal e Brasil
 
 ## Qualificações
-### BackEnd
+### :gear: BackEnd
 - Design Patterns
 - Boas Práticas
 
@@ -32,7 +32,7 @@ Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 - Node JS - Express, NPM
 
 ------------
-### FrontEnd
+### :desktop_computer: FrontEnd
 - React Js
 - Angular
 - Vue JS
@@ -41,38 +41,38 @@ Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 - CSS & SASS
 - Bootstrap 4
 ------------
-### Mobile
+### :iphone: Mobile
 - React Native (Redux)
 - Android SDK
 - Ionic / PhoneGap
 - Web APP / PWA
 ------------
-### Banco de Dados
+### :file_cabinet: Banco de Dados
 - Mysql
 - SQL Server
 - MongoDB
 - Firebase Firestore
 - SQLITE
 ------------
- ### Cloud
+ ### :cloud: Cloud
 - AWS, Google Cloud
 - Serveless (Firebase, Netlify, Heroku)
 - Roteamento DNS
 - Load Balance (distribuição de carga)
 ------------
- ### 3D e Games
+ ### :video_game: 3D e Games
 - Unity
 - Unreal Engine
 - Blender
 - Key Shot
 - VR e AR
 ------------
- ### AI e Computação Visual
+ ### :movie_camera: AI e Computação Visual
 - OpenCV
 - FFMPEG
 - Melt
 ------------
- ### SO e Ferramentas de Dev
+ ### :wrench: SO e Ferramentas de Dev
 - Linux
 - Git
 - Redis
@@ -80,12 +80,12 @@ Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 - VIM
 - Bash/CLI
 ------------
- ### Streaming (Audio  Vídeo)
+ ### :clapper: Streaming (Audio  Vídeo)
 - Live Events
 - Video Encoding 
 - WebTV / WebTraining
 ------------
- ### Outros Softwares
+ ### :computer_mouse: Outros Softwares
 - Adobe Premiere Pro
 - Adobe After Effects
 - Adobe Photoshop
