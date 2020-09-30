@@ -98,6 +98,15 @@ Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 - Sketch
 
 ------------
+
+### Experiência Profissional
+TVAOVIVO | ALESP | PREFEITURA TABOÃO
+------------- | -------------|-------------|
+Fullstack Developer  | Fullstack Developer | Developer
+2013 / atual  | 2010 / 2013 | 2010 / 2013
+Desenvolvimento da plataforma de transmissão e certificação, assim como webtvs para o mercado corporativo. Cloud na AWS com programação em PHP, C# .NET e Java Android.   | Desenvolvimento de sistema interno, criação de apps para monitoramento e captação de audiência em redes sociais, websites, hotsites e mídia com foco em campanha eleitoral. | Planejamento de sites, campanhas informativas e educacionais online e sistemas de gerenciamento de informações para a prefeitura de Taboão da Serra e Câmara Municipal.
+
+------------
 ### Contato
 contato@sergiocardoso.org.   
 https://facebook.com/sergiocardoso.sp.  
