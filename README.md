@@ -2,7 +2,7 @@
 #### Full Stack Developer 
 Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 
-####Formação Escolar
+#### Formação Escolar
 - Universidade Ibirapuera
 	Processamento de Dados - concluído em 2000
 - Colégio Madre Theodora
