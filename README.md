@@ -19,83 +19,18 @@ Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 - Design Patterns
 - Boas Práticas
 
-#### Linguagems de Programação
-- PHP OO
-- Python
-- Node JS
-- Shell Script Linux
-- Java
+BackEnd | Frameworks | FrontEnd | Android & IOS
+------------- | -------------|-------------|-------------|
+Python<br>PHP<br>Node JS<br>Java<br>Shell Script  |PHP - Laravel, Codeigniter, Composer<br>Python - Flask, PIP, Dash, Plotly, NumPy, Pandas<br>Node JS - Express, NPM| React JS<br>Angular 9<br>Vue JS<br>HTML 5<br>JS ES6<br>CSS & SASS<br>Bootstrap 4 | React Native<br>Android SDK<br>Ionic<br>Web APP / PWA
 
-#### Frameworks e Ferramentas
-- PHP - Laravel, Codeigniter, Composer
-- Python - Flask, PIP, Dash, Plotly, NumPy, Pandas
-- Node JS - Express, NPM
+Database | Cloud | Games 3D | AI e Computação Visual|
+------------- | -------------|-------------|-------------|
+Mysql<br>SQL Server<br>Mongo DB<br>Firebase Firestore<br>SQLITE | AWS<br>Google Cloud<br>Serveless (Netlify, Firebase, Heroku)<br>Roteamento DNS<br>Load Balance| Unity<br>Unreal Engine<br>Blender<br>Key Shot<br>VR e AR|Open CV<br>FFMPEG<br>Melt
 
-------------
-### :desktop_computer: FrontEnd
-- React Js
-- Angular
-- Vue JS
-- HTML 5
-- Javascript ES6
-- CSS & SASS
-- Bootstrap 4
-------------
-### :iphone: Mobile
-- React Native (Redux)
-- Android SDK
-- Ionic / PhoneGap
-- Web APP / PWA
-------------
-### :file_cabinet: Banco de Dados
-- Mysql
-- SQL Server
-- MongoDB
-- Firebase Firestore
-- SQLITE
-------------
- ### :cloud: Cloud
-- AWS, Google Cloud
-- Serveless (Firebase, Netlify, Heroku)
-- Roteamento DNS
-- Load Balance (distribuição de carga)
-------------
- ### :video_game: 3D e Games
-- Unity
-- Unreal Engine
-- Blender
-- Key Shot
-- VR e AR
-------------
- ### :movie_camera: AI e Computação Visual
-- OpenCV
-- FFMPEG
-- Melt
-------------
- ### :wrench: SO e Ferramentas de Dev
-- Linux
-- Git
-- Redis
-- Vagrant
-- VIM
-- Bash/CLI
-------------
- ### :clapper: Streaming (Audio  Vídeo)
-- Live Events
-- Video Encoding 
-- WebTV / WebTraining
-------------
- ### :computer_mouse: Outros Softwares
-- Adobe Premiere Pro
-- Adobe After Effects
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Indesign
-- GIMP
-- Final Cut Pro
-- 3D Motion Effects
-- Affinity Designer
-- Sketch
+
+SO & DEV | Streaming | Outros Softwares 
+------------- | ------------- | -------------|
+Linux<br>Git<br>Redis<br>Vagrant<br>Vim<br>Bash/CLI|Live Events<br>Video Encoding<br>WebTV / WebTraining| Premiere Pro<br>After Effects<br>Final Cut Pro<br>Illustrator<br>Indesign<br>Gimp<br>Sketch
 
 ------------
 
