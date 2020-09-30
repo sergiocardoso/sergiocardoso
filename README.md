@@ -96,6 +96,14 @@ Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 - 3D Motion Effects
 - Affinity Designer
 - Sketch
+
+------------
+### Contato
+contato@sergiocardoso.org.   
+https://facebook.com/sergiocardoso.sp.  
+https://www.linkedin.com/in/sergiocardososp    
+https://www.instagram.com/sergiocardoso.sp
+
 <!--
 **sergiocardoso/sergiocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
