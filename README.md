@@ -42,7 +42,7 @@ Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
 - Bootstrap 4
 ------------
 ### Mobile
-- React Native
+- React Native (Redux)
 - Android SDK
 - Ionic / PhoneGap
 - Web APP / PWA
