@@ -1,95 +1,17 @@
-# Sérgio Cardoso :nerd_face: :technologist:
-#### Full Stack Developer 
-Programador backend, frontend, mobile, banco de dados, cloud, 3d e games
-
-#### :school_satchel: Formação Escolar
-- Universidade Ibirapuera
-	Processamento de Dados - concluído em 2000
-- Colégio Madre Theodora
-	Curso Técnico de Processamento de Dados - concluído em 1997
-
-#### :earth_americas: Idiomas
-- English (ABA English)
-
-#### :brazil: :portugal:  Dupla Cidadania
-- Portugal e Brasil
-
-## Qualificações
-### :gear: BackEnd
-- Design Patterns
-- Boas Práticas
-
-BackEnd | Frameworks | FrontEnd | Android & IOS
-------------- | -------------|-------------|-------------|
-Python<br>PHP<br>Node JS<br>Java<br>Shell Script  |PHP - Laravel, Codeigniter, Composer<br>Python - Flask, PIP, Dash, Plotly, NumPy, Pandas<br>Node JS - Express, NPM| React JS<br>Angular 9<br>Vue JS<br>HTML 5<br>JS ES6<br>CSS & SASS<br>Bootstrap 4 | React Native<br>Android SDK<br>Ionic<br>Web APP / PWA
-
-Database | Cloud | Games 3D | AI e Computação Visual|
-------------- | -------------|-------------|-------------|
-Mysql<br>SQL Server<br>Mongo DB<br>Firebase Firestore<br>SQLITE | AWS<br>Google Cloud<br>Serveless (Netlify, Firebase, Heroku)<br>Roteamento DNS<br>Load Balance| Unity<br>Unreal Engine<br>Blender<br>Key Shot<br>VR e AR|Open CV<br>FFMPEG<br>Melt
+# Sérgio Cardoso
 
 
-SO & DEV | Streaming | Outros Softwares 
-------------- | ------------- | -------------|
-Linux<br>Git<br>Redis<br>Vagrant<br>Vim<br>Bash/CLI|Live Events<br>Video Encoding<br>WebTV / WebTraining| Premiere Pro<br>After Effects<br>Final Cut Pro<br>Illustrator<br>Indesign<br>Gimp<br>Sketch
+⤷ (english) Fullstack developer specialized in React, TypeScript, NextJS, and GraphQL. I build scalable and interactive web applications using the latest technologies. Experience in React for high-quality interfaces, TypeScript for static typing, NextJS for server-rendered apps, and GraphQL for both frontend and backend using NodeJS, PHP, and Python. Offering a complete and optimized user experience.
 
-------------
+⤷ (portuguese) Desenvolvedor fullstack especializado em React, TypeScript, NextJS, GraphQL. Construo aplicativos web escaláveis e interativos com as tecnologias mais recentes. Experiência em React para interfaces de alta qualidade, TypeScript para tipagem estática, NextJS para aplicativos server-rendered e GraphQL
 
-### Experiência Profissional
-TVAOVIVO | ALESP | PREFEITURA TABOÃO
-------------- | -------------|-------------|
-Fullstack Developer  | Fullstack Developer | Developer
-2013 / atual  | 2010 / 2013 | 2010 / 2013
-Desenvolvimento da plataforma de transmissão e certificação, assim como webtvs para o mercado corporativo. Cloud na AWS com programação em PHP, C# .NET e Java Android.   | Desenvolvimento de sistema interno, criação de apps para monitoramento e captação de audiência em redes sociais, websites, hotsites e mídia com foco em campanha eleitoral. | Planejamento de sites, campanhas informativas e educacionais online e sistemas de gerenciamento de informações para a prefeitura de Taboão da Serra e Câmara Municipal.
+ <a aligh="left" href="https://sergiocardoso.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:contato@sergiocardoso.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/sergiocardoso" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/sergiocardososp" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-VÍDEO IN COMUNICAÇÕES | TVAOVIVO | PRODIGO FILMS
-------------- | -------------|-------------|
-Developer | Developer e Motion | Motion Graphics
-2005 / 2006  | 2004 / 2005 | 2003 / 2004
-Sites, portais e sistemas além de vinhetas 2d/3d/edição de vídeo para os programas: Liquida Mix, Vídeo Imóvel, Botânica Jarinu, Figueira Garden, Porto Seguro, programas do ramo imobiliário. | Criação do portal TVAOVIVO, programação de treinamentos em webcasting e responsável pelo broadcast ao vivo diariamente em São Paulo. |Animações 2d e 3d edições e composições de vídeo, criação e desenvolvimento de sistema de automação para a Fitoteca.
+⚐ Based in São Paulo, SP
 
-AGÊNCIA AC&SAT | SMA - CEAM
-------------- | -------------|
-Developer Assistent | Trainee
-2002  | 2001 / 2002
-Desenvolvimento de peças publicitárias para rede Chevrolet, grupo Accor (design, layout, bonecos, impressão, folder, web | Responsável pelo Bug do Milênio (setor CEAM), desenvolvimento de sistema de automação para a biblioteca da SMA.
-
-------------
-### Aplicativos criados
-Healthy Chew | Math Travel | Cabe Aqui? | O Taboanense | Guia
-:----------: | :----------: | :----------: | :----------: | :----------: |
-![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/96/0a/75/960a75ea-784e-3a0d-87e8-0992f0175573/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/90x90bb.png)| ![](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/af/50/b7/af50b707-98f9-d8f6-2806-d7557346dce0/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/90x90bb.png)|![](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/61/eb/15/61eb1522-cc49-169e-3cf4-1185db860fd8/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/90x90bb.png)|![](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/dc/b8/9c/dcb89c1a-8103-6873-fe1b-18f44458e13f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/90x90bb.png)|![](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ee/8b/90/ee8b902d-af84-b268-f9ab-8cc0330b674a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/90x90bb.png)
-App para monitorar mastigações| Jogo que mistura ação com matemática|App que verifica se produtos reais cabem no seu ambiente|App oficial do portal O Taboanense|Guia comercial de produtos e Serviços
-[IOS](https://apps.apple.com/us/app/healthy-chew/id1485169722)<br>[ANDROID](https://play.google.com/store/apps/details?id=br.flokin.healthychew2020)|[IOS](https://apps.apple.com/us/app/math-travel/id1526342741)<br>[ANDROID](https://play.google.com/store/apps/details?id=com.flokin.flappymath)|[IOS](https://apps.apple.com/us/app/fit-here/id1519448071)<br>[ANDROID](https://play.google.com/store/apps/details?id=com.Flokin.CabeAqui)|[IOS](https://apps.apple.com/us/app/o-taboanense/id1477100081)<br>[ANDROID](https://play.google.com/store/apps/details?id=br.com.flokin.otaboanense)|[IOS](https://apps.apple.com/us/app/guia-o-taboanense/id1497324876)<br>[ANDROID](https://play.google.com/store/apps/details?id=br.flokin.guiaotaboanense)
+ϟ Currently Fullstack Developer
 
 
-------------
 
-### Projetos Desenvolvidos
-Curriculo Digital | VerifyCar | O Taboanense | TVAOVIVO | TV Taboanense
-:----------: | :----------: | :----------: | :----------: | :----------: |
-www.curriculo.digital  | www.verifycar.com.br | www.otaboanense.com.br | www.tvaovivo.com.br | www.tvtaboanense.com.br
-Plataforma para criação de currículos digitais | Serviço para avaliação de veículos seminovos | Portal de notícias | Plataforma de webtv (live e ondemand) | Webtv de notícias regionais
-React JS, Node, Serveless, Firebase  | React Native, JS, Firebase | AWS, PHP, Wordpress, React |AWS, PHP, Node, Python, React | Angular, Firebase, Serveless
-
-
-------------
-### Contato
-contato@sergiocardoso.org.   
-https://facebook.com/sergiocardoso.sp.  
-https://www.linkedin.com/in/sergiocardososp    
-https://www.instagram.com/sergiocardoso.sp
-
-<!--
-**sergiocardoso/sergiocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Skills
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/csharp.svg" alt="C#" width="25" height="25" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://vuejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vue.svg" alt="Vue" width="25" height="25" /></a> <a href="https://angularjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/angular.svg" alt="Angular" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a> <a href="https://babeljs.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/babel.svg" alt="Babel" width="25" height="25" /></a> <a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> 
