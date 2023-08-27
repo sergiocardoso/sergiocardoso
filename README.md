@@ -1,5 +1,17 @@
 # Sérgio Cardoso
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=601DF7&width=435&lines=Turning+Ideas+into+Fullstack+Experiences)](https://git.io/typing-svg)
+
+<a href="[https://www.buymeacoffee.com/absatyaprakash](https://www.buymeacoffee.com/sergiocardoso)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+### Quick Introduction
+- Fullstack Developer
+- Currently employed at JOTA Jornalismo
+- Passionate about technology and innovation
+- Advocate for the Open Source community
+- Enthusiast of 3D projects (Games, VR, 3D Printing)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/absatyaprakash/](https://www.linkedin.com/in/sergiocardososp/))
 
 ⤷ (english) Fullstack developer specialized in React, TypeScript, NextJS, and GraphQL. I build scalable and interactive web applications using the latest technologies. Experience in React for high-quality interfaces, TypeScript for static typing, NextJS for server-rendered apps, and GraphQL for both frontend and backend using NodeJS, PHP, and Python. Offering a complete and optimized user experience.
 
