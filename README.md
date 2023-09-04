@@ -1,6 +1,6 @@
 # Sérgio Cardoso
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=601DF7&width=435&lines=Turning+Ideas+into+Fullstack+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=601DF7&width=435&lines=Turning+Ideas+into+Fullstack+Experiences)](https://git.io/typing-svg)
 
 <a href="[https://www.buymeacoffee.com/absatyaprakash](https://www.buymeacoffee.com/sergiocardoso)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
